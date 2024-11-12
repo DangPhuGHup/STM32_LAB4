@@ -1,0 +1,4 @@
+../Core/Src/software_timer.c:17:6:setTimer_1s1	1
+../Core/Src/software_timer.c:22:6:setTimer_EN_GR1	1
+../Core/Src/software_timer.c:27:6:setTimer_2hz	1
+../Core/Src/software_timer.c:32:6:timerRun	7
