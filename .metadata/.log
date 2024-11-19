@@ -1233,3 +1233,22 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/TEST/Core/Src
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-11-12 18:32:18.314
 !MESSAGE Indexed 'TEST' (28 sources, 142 headers) in 3.57 sec: 10,519 declarations; 49,982 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.31%)
+!SESSION 2024-11-13 13:31:50.065 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\LAB VXL\GIT_LAB3_official\LAB_3\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\LAB VXL\GIT_LAB3_official\LAB_3\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-11-13 13:32:30.650
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-11-13 13:32:30.664
+!MESSAGE Log4j2 initialized with config file D:\LAB VXL\GIT_LAB4\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-11-13 13:32:41.055
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-11-13 13:33:08.125
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
